@@ -1,0 +1,10 @@
+C:\Users\DELL PRECISION\source\repos\Drawing paint app\bin\Debug\Drawing paint app.exe.config
+C:\Users\DELL PRECISION\source\repos\Drawing paint app\bin\Debug\Drawing paint app.exe
+C:\Users\DELL PRECISION\source\repos\Drawing paint app\bin\Debug\Drawing paint app.pdb
+C:\Users\DELL PRECISION\source\repos\Drawing paint app\obj\Debug\Drawing paint app.csprojAssemblyReference.cache
+C:\Users\DELL PRECISION\source\repos\Drawing paint app\obj\Debug\Drawing_paint_app.Form1.resources
+C:\Users\DELL PRECISION\source\repos\Drawing paint app\obj\Debug\Drawing_paint_app.Properties.Resources.resources
+C:\Users\DELL PRECISION\source\repos\Drawing paint app\obj\Debug\Drawing paint app.csproj.GenerateResource.cache
+C:\Users\DELL PRECISION\source\repos\Drawing paint app\obj\Debug\Drawing paint app.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION\source\repos\Drawing paint app\obj\Debug\Drawing paint app.exe
+C:\Users\DELL PRECISION\source\repos\Drawing paint app\obj\Debug\Drawing paint app.pdb
